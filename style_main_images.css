@@ -1,0 +1,38 @@
+#body_tickets{
+    background-image: url(images/airport1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    
+}
+#body_aboutme{
+    background-image: url(images/home1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+}
+#body_store{
+    background-image: url(images/home2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+}
+#body_photo{
+    background-image: url(images/church1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+}
+#body_things{
+    background-image: url(images/ship2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+}
+
+#body_err404{
+    background-image: url(images/man1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+}
